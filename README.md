@@ -1,4 +1,4 @@
-# nanplanedo
+# Nanplanedo
 
 Nanplanedo is an Esperanto word which means "dwarf planet" in English.
 
